@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Wien Tsang Architecture Blog]]></title>
+        <description><![CDATA[Wien Tsang Architecture Blog]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 30 Oct 2015 16:42:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Leo House]]></title>
+            <description><![CDATA[<article><h1>Leo House</h1><p>Leo Mak House on Cameron Height</p></article>]]></description>
+            <link>undefinedleo-house/index.html</link>
+            <guid isPermaLink="false">276363f6-7071-4e69-866b-e45b7eaaf455</guid>
+            <pubDate>Fri, 30 Oct 2015 16:42:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
