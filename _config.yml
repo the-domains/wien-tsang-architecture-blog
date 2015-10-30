@@ -2,6 +2,7 @@ name: Wien Tsang Architecture Blog
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 1
+title: Architecture Blog
 cta:
   domain: null
   bucket: null
