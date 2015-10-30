@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Wien Tsang Architecture Blog]]></title>
         <description><![CDATA[Wien Tsang Architecture Blog]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wien-tsang-architecture-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 30 Oct 2015 16:50:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 30 Oct 2015 16:51:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wien-tsang-architecture-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-ord1-1.xx.fbcdn.net/hphotos-frc3/v/t1.0-9/180715_10150420573235265_202845_n.jpg?oh=7795d520174406054b80e833951ba9e7&oe=56B12DB4">]]></description>
+            <link>https://thegrid.ai/wien-tsang-architecture-blog/de8d36a1-9609-4fd3-84a5-e93ae557be67/index.html</link>
+            <guid isPermaLink="false">de8d36a1-9609-4fd3-84a5-e93ae557be67</guid>
+            <pubDate>Fri, 30 Oct 2015 16:50:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://scontent-ord1-1.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/254008_10150651744735265_1481823_n.jpg?oh=f8a00b48ac579403028691e0edf776e6&oe=56C22167">]]></description>
-            <link>undefined4c99e28c-2078-4485-bc71-390090366319/index.html</link>
+            <link>https://thegrid.ai/wien-tsang-architecture-blog/4c99e28c-2078-4485-bc71-390090366319/index.html</link>
             <guid isPermaLink="false">4c99e28c-2078-4485-bc71-390090366319</guid>
             <pubDate>Fri, 30 Oct 2015 16:50:20 GMT</pubDate>
         </item>
