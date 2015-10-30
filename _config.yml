@@ -1,6 +1,6 @@
 name: Wien Tsang Architecture Blog
 favicon: null
-layout_spectrum: 0.8303070047404617
+layout_spectrum: 0
 typography_spectrum: 0.05551242548972368
 cta:
   domain: null
@@ -16,7 +16,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.33801384340040386
+  brandStrength: 1
   lightness: 0.504688965389505
   saturation: 0.48405627091415226
   rhythmicContrast: 0.6015586466528475
